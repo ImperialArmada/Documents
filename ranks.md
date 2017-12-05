@@ -31,10 +31,9 @@ Ranks:
 
 	Advanced ranked members should showcase an increased level of knowledge and skill on the battlefield compared to their preceding ranks. They still become promoted through trainings and corresponding events, but more should be required of them in order to become promoted. For a Paladin to be promoted, they must remain active and fill out an application located on the discord #announcements (PS: Crusaders can apply for Prime as well.)
 
-3a. Prime
-
-	- Primes are Paragon to be. They are trained to be a High Rank in the future.
-	- Primes are to show MATURITY, SKILL, & DEDICATION at all group events.
+	- Prime:
+		- Primes are Paragon to be. They are trained to be a High Rank in the future.
+		- Primes are to show MATURITY, SKILL, & DEDICATION at all group events.
 
 4. Diplomat
 
