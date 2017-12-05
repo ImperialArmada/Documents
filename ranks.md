@@ -33,8 +33,8 @@ Ranks:
 
 3a. Prime
 
-	Primes are Paragon to be. They are trained to be a High Rank in the future.
-	Primes are to show MATURITY, SKILL, & DEDICATION at all group events.
+	- Primes are Paragon to be. They are trained to be a High Rank in the future.
+	- Primes are to show MATURITY, SKILL, & DEDICATION at all group events.
 
 4. Diplomat
 
